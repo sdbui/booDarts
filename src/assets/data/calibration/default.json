@@ -1,0 +1,494 @@
+[
+  {
+    "keycode": "76",
+    "name": "s1",
+    "value": 1,
+    "multiplier": 1
+  },
+  {
+    "keycode": "68",
+    "name": "s1",
+    "value": 1,
+    "multiplier": 1
+  },
+  {
+    "keycode": "112",
+    "name": "d1",
+    "value": 1,
+    "multiplier": 2
+  },
+  {
+    "keycode": "42",
+    "name": "t1",
+    "value": 1,
+    "multiplier": 3
+  },
+  {
+    "keycode": "38",
+    "name": "s2",
+    "value": 2,
+    "multiplier": 1
+  },
+  {
+    "keycode": "59",
+    "name": "s2",
+    "value": 2,
+    "multiplier": 1
+  },
+  {
+    "keycode": "43",
+    "name": "d2",
+    "value": 2,
+    "multiplier": 2
+  },
+  {
+    "keycode": "69",
+    "name": "t2",
+    "value": 2,
+    "multiplier": 3
+  },
+  {
+    "keycode": "111",
+    "name": "s3",
+    "value": 3,
+    "multiplier": 1
+  },
+  {
+    "keycode": "83",
+    "name": "s3",
+    "value": 3,
+    "multiplier": 1
+  },
+  {
+    "keycode": "50",
+    "name": "d3",
+    "value": 3,
+    "multiplier": 2
+  },
+  {
+    "keycode": "58",
+    "name": "t3",
+    "value": 3,
+    "multiplier": 3
+  },
+  {
+    "keycode": "88",
+    "name": "s4",
+    "value": 4,
+    "multiplier": 1
+  },
+  {
+    "keycode": "51",
+    "name": "s4",
+    "value": 4,
+    "multiplier": 1
+  },
+  {
+    "keycode": "104",
+    "name": "d4",
+    "value": 4,
+    "multiplier": 2
+  },
+  {
+    "keycode": "77",
+    "name": "t4",
+    "value": 4,
+    "multiplier": 3
+  },
+  {
+    "keycode": "81",
+    "name": "s5",
+    "value": 5,
+    "multiplier": 1
+  },
+  {
+    "keycode": "108",
+    "name": "s5",
+    "value": 5,
+    "multiplier": 1
+  },
+  {
+    "keycode": "40",
+    "name": "d5",
+    "value": 5,
+    "multiplier": 2
+  },
+  {
+    "keycode": "56",
+    "name": "t5",
+    "value": 5,
+    "multiplier": 3
+  },
+  {
+    "keycode": "82",
+    "name": "s6",
+    "value": 6,
+    "multiplier": 1
+  },
+  {
+    "keycode": "126",
+    "name": "s6",
+    "value": 6,
+    "multiplier": 1
+  },
+  {
+    "keycode": "105",
+    "name": "d6",
+    "value": 6,
+    "multiplier": 2
+  },
+  {
+    "keycode": "45",
+    "name": "t6",
+    "value": 6,
+    "multiplier": 3
+  },
+  {
+    "keycode": "84",
+    "name": "s7",
+    "value": 7,
+    "multiplier": 1
+  },
+  {
+    "keycode": "47",
+    "name": "s7",
+    "value": 7,
+    "multiplier": 1
+  },
+  {
+    "keycode": "107",
+    "name": "d7",
+    "value": 7,
+    "multiplier": 2
+  },
+  {
+    "keycode": "48",
+    "name": "t7",
+    "value": 7,
+    "multiplier": 3
+  },
+  {
+    "keycode": "64",
+    "name": "s8",
+    "value": 8,
+    "multiplier": 1
+  },
+  {
+    "keycode": "86",
+    "name": "s8",
+    "value": 8,
+    "multiplier": 1
+  },
+  {
+    "keycode": "85",
+    "name": "d8",
+    "value": 8,
+    "multiplier": 2
+  },
+  {
+    "keycode": "114",
+    "name": "t8",
+    "value": 8,
+    "multiplier": 3
+  },
+  {
+    "keycode": "78",
+    "name": "s9",
+    "value": 9,
+    "multiplier": 1
+  },
+  {
+    "keycode": "65",
+    "name": "s9",
+    "value": 9,
+    "multiplier": 1
+  },
+  {
+    "keycode": "61",
+    "name": "d9",
+    "value": 9,
+    "multiplier": 2
+  },
+  {
+    "keycode": "116",
+    "name": "t9",
+    "value": 9,
+    "multiplier": 3
+  },
+  {
+    "keycode": "110",
+    "name": "s10",
+    "value": 10,
+    "multiplier": 1
+  },
+  {
+    "keycode": "80",
+    "name": "s10",
+    "value": 10,
+    "multiplier": 1
+  },
+  {
+    "keycode": "46",
+    "name": "d10",
+    "value": 10,
+    "multiplier": 2
+  },
+  {
+    "keycode": "44",
+    "name": "t10",
+    "value": 10,
+    "multiplier": 3
+  },
+  {
+    "keycode": "115",
+    "name": "s11",
+    "value": 11,
+    "multiplier": 1
+  },
+  {
+    "keycode": "75",
+    "name": "s11",
+    "value": 11,
+    "multiplier": 1
+  },
+  {
+    "keycode": "70",
+    "name": "d11",
+    "value": 11,
+    "multiplier": 2
+  },
+  {
+    "keycode": "99",
+    "name": "t11",
+    "value": 11,
+    "multiplier": 3
+  },
+  {
+    "keycode": "101",
+    "name": "s12",
+    "value": 12,
+    "multiplier": 1
+  },
+  {
+    "keycode": "79",
+    "name": "s12",
+    "value": 12,
+    "multiplier": 1
+  },
+  {
+    "keycode": "94",
+    "name": "d12",
+    "value": 12,
+    "multiplier": 2
+  },
+  {
+    "keycode": "36",
+    "name": "t12",
+    "value": 12,
+    "multiplier": 3
+  },
+  {
+    "keycode": "39",
+    "name": "s13",
+    "value": 13,
+    "multiplier": 1
+  },
+  {
+    "keycode": "74",
+    "name": "s13",
+    "value": 13,
+    "multiplier": 1
+  },
+  {
+    "keycode": "37",
+    "name": "d13",
+    "value": 13,
+    "multiplier": 2
+  },
+  {
+    "keycode": "66",
+    "name": "t13",
+    "value": 13,
+    "multiplier": 3
+  },
+  {
+    "keycode": "34",
+    "name": "s14",
+    "value": 14,
+    "multiplier": 1
+  },
+  {
+    "keycode": "106",
+    "name": "s14",
+    "value": 14,
+    "multiplier": 1
+  },
+  {
+    "keycode": "97",
+    "name": "d14",
+    "value": 14,
+    "multiplier": 2
+  },
+  {
+    "keycode": "98",
+    "name": "t14",
+    "value": 14,
+    "multiplier": 3
+  },
+  {
+    "keycode": "57",
+    "name": "s15",
+    "value": 15,
+    "multiplier": 1
+  },
+  {
+    "keycode": "52",
+    "name": "s15",
+    "value": 15,
+    "multiplier": 1
+  },
+  {
+    "keycode": "93",
+    "name": "d15",
+    "value": 15,
+    "multiplier": 2
+  },
+  {
+    "keycode": "54",
+    "name": "t15",
+    "value": 15,
+    "multiplier": 3
+  },
+  {
+    "keycode": "91",
+    "name": "s16",
+    "value": 16,
+    "multiplier": 1
+  },
+  {
+    "keycode": "103",
+    "name": "s16",
+    "value": 16,
+    "multiplier": 1
+  },
+  {
+    "keycode": "62",
+    "name": "d16",
+    "value": 16,
+    "multiplier": 2
+  },
+  {
+    "keycode": "100",
+    "name": "t16",
+    "value": 16,
+    "multiplier": 3
+  },
+  {
+    "keycode": "89",
+    "name": "s17",
+    "value": 17,
+    "multiplier": 1
+  },
+  {
+    "keycode": "90",
+    "name": "s17",
+    "value": 17,
+    "multiplier": 1
+  },
+  {
+    "keycode": "60",
+    "name": "d17",
+    "value": 17,
+    "multiplier": 2
+  },
+  {
+    "keycode": "41",
+    "name": "t17",
+    "value": 17,
+    "multiplier": 3
+  },
+  {
+    "keycode": "55",
+    "name": "s18",
+    "value": 18,
+    "multiplier": 1
+  },
+  {
+    "keycode": "109",
+    "name": "s18",
+    "value": 18,
+    "multiplier": 1
+  },
+  {
+    "keycode": "53",
+    "name": "d18",
+    "value": 18,
+    "multiplier": 2
+  },
+  {
+    "keycode": "71",
+    "name": "t18",
+    "value": 18,
+    "multiplier": 3
+  },
+  {
+    "keycode": "33",
+    "name": "s19",
+    "value": 19,
+    "multiplier": 1
+  },
+  {
+    "keycode": "35",
+    "name": "s19",
+    "value": 19,
+    "multiplier": 1
+  },
+  {
+    "keycode": "72",
+    "name": "d19",
+    "value": 19,
+    "multiplier": 2
+  },
+  {
+    "keycode": "49",
+    "name": "t19",
+    "value": 19,
+    "multiplier": 3
+  },
+  {
+    "keycode": "87",
+    "name": "s20",
+    "value": 20,
+    "multiplier": 1
+  },
+  {
+    "keycode": "102",
+    "name": "s20",
+    "value": 20,
+    "multiplier": 1
+  },
+  {
+    "keycode": "63",
+    "name": "d20",
+    "value": 20,
+    "multiplier": 2
+  },
+  {
+    "keycode": "67",
+    "name": "t20",
+    "value": 20,
+    "multiplier": 3
+  },
+  {
+    "keycode": "113",
+    "name": "sB",
+    "value": 25,
+    "multiplier": 1
+  },
+  {
+    "keycode": "73",
+    "name": "dB",
+    "value": 25,
+    "multiplier": 2
+  }
+]

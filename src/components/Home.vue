@@ -14,13 +14,17 @@ export default {
         return {
             routes: [
                 {
+                    name: 'calibration',
+                    path: '/calibration',
+                },
+                {
                     name: 'honeycomb',
-                    path: '/honeycomb'
+                    path: '/honeycomb',
                 },
                 {
                     name: 'fightgame',
-                    path: '/fight'
-                }
+                    path: '/fight',
+                },
             ]
         }
     },
